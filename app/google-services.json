@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79476854403",
+    "project_id": "cleverapp-abfca",
+    "storage_bucket": "cleverapp-abfca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79476854403:android:516062e3cd92c81fcdd5b6",
+        "android_client_info": {
+          "package_name": "com.prajjwal.cleverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzo7wpoOrZBq7xS7K21N90c7rrm-RF63M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
